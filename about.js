@@ -3,7 +3,7 @@ console.log("hello world");
 function handleSubmit(evt) {
   evt.preventDefault();
 
-  alert("form submit");
+  alert("Form submitted successfully!");
 }
 
 let form = document.querySelector("form#contact");
