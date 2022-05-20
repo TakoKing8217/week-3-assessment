@@ -12,14 +12,14 @@ section {
   justify-content: center;
   border-bottom: 2px dotted rgb(45, 140, 213);
   background-color: black;
-  height: 200px;
+  height: 100px;
   width: 100%;
 }
 
 nav {
   border-bottom: 2px dotted rgb(45, 140, 213);
   background-color: black;
-  height: 200px;
+  height: 100px;
   width: 100%;
 }
 
@@ -49,7 +49,8 @@ img {
 }
 
 button {
-  background-color: yellow;
+  box-shadow: 5px 5px 5px black;
+  background-color: rgb(210, 215, 51);
   width: 200px;
   height: 50px;
   border-radius: 20px;
