@@ -1,0 +1,60 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  border-bottom: 2px dotted rgb(45, 140, 213);
+  background-color: black;
+  height: 200px;
+  width: 100%;
+}
+
+nav {
+  border-bottom: 2px dotted rgb(45, 140, 213);
+  background-color: black;
+  height: 200px;
+  width: 100%;
+}
+
+ol {
+  padding-left: 0;
+}
+
+.crumb {
+  margin-right: 2em;
+  display: inline;
+}
+
+a {
+  color: orange;
+}
+
+a:visited {
+  color: crimson;
+}
+
+input {
+  display: block;
+}
+
+img {
+  max-width: 300px;
+}
+
+button {
+  background-color: yellow;
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+}
+
+header {
+  background-color: black;
+}
